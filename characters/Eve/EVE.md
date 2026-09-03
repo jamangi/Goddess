@@ -2,6 +2,8 @@
 
 > A goddess of chosen bonds who inherited a world built on bonds nobody chose.
 
+Visual continuity: [illustration model](illustrations/MODEL.md).
+
 ## Identity
 
 **Name:** Eve
@@ -21,15 +23,15 @@
 
 ## Appearance
 
-**Apparent age:** Early thirties; actual age measured in centuries.
-**Hair:** Black, heavy, usually arranged with gold keys; loosened in private.
+**Apparent age:** 25; actual age measured in centuries.
+**Hair:** Blonde, long and heavy, usually arranged with gold keys; loosened in private.
 **Eyes:** Dark amber, brightening around the iris when she opens a threshold.
-**Skin:** Warm olive with faint gold lines at wrist and throat when using power.
+**Skin:** Light peach complexion with soft natural peach-fuzz texture; faint gold lines appear at wrist and throat when she uses power.
 **Height:** 5'10" / 178 cm.
 **Build:** Long-limbed, soft-strong, visibly accustomed to being looked at.
 **Face:** Regal at rest, dangerously readable when surprised.
 **Dominant hand:** Left.
-**Common dress:** Architectural black or wine-colored linen, a ceremonial collar of interlocking keys, bare arms, impractical gold sandals she refuses to admit hurt.
+**Common dress:** Architectural black or wine-colored linen, a ceremonial collar of interlocking keys, bare arms, and bare feet. Gold anklets may mark formal occasions, but she considers footwear an irritating concession to mortal streets.
 
 ## Background
 
@@ -56,7 +58,7 @@
 **Strengths:** Curious, sensually imaginative, socially fearless, attentive, generous when generosity feels personal, able to apologize without pretending she lacked power.
 **Weaknesses:** Vain, novelty-hungry, possessive, insulated from consequences, capable of mistaking beautiful rules for just outcomes. She tests boundaries when excited and rationalizes structural harm when frightened.
 **Fears:** Being sincerely unwanted; becoming boring; public diminishment; discovering that her tenderness is only another technique of ownership.
-**Habits:** Touches locks while thinking; changes ritual details when anxious; asks questions she already knows the political answer to because she wants the emotional answer.
+**Habits:** Touches locks while thinking; removes or abandons footwear whenever anyone persuades her to wear it; changes ritual details when anxious; asks questions she already knows the political answer to because she wants the emotional answer.
 **Hobbies:** Knotwork, masked theater, collecting mortal games, redesigning rooms, illicitly reading votary graffiti.
 
 ## Desire style

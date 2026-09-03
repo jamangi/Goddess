@@ -2,6 +2,8 @@
 
 > The gods trained him to find the governing weakness in monsters and failed to consider that governments also have governing weaknesses.
 
+Visual continuity: [illustration model](illustrations/MODEL.md).
+
 ## Identity
 
 **Name:** Vincent

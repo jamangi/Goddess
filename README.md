@@ -10,7 +10,7 @@ All principal romantic and sexual characters are adults.
 
 1. [Core premise](world/PREMISE.md)
 2. [The stolen heart and the labyrinth](world/MYTHOLOGY.md)
-3. [Eve](characters/EVE.md) and [Vincent](characters/VINCENT.md)
+3. [Eve](characters/Eve/EVE.md) and [Vincent](characters/Vincent/VINCENT.md)
 4. [Their private culture](romance_systems/PRIVATE_CULTURE.md)
 5. [Desire priorities](romance_systems/DESIRES.md) and [tension engine](romance_systems/TENSIONS.md)
 6. [Outer-story arc](story/OUTER_STORY.md) and [roleplay loop](story/ROLEPLAY_ENGINE.md)
@@ -23,6 +23,7 @@ All principal romantic and sexual characters are adults.
 - `romance_systems/` — desire weights, romantic feedback loops, rituals, and consent under unequal power
 - `story/` — campaign pressure and repeatable scene generation
 - `decisions/` — choices reserved for the human creators
+- `tasks/` — self-contained production tasks with recommended reasoning effort
 
 ## Creative north star
 
