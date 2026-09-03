@@ -4,7 +4,7 @@
 
 Before the Ninefold City, the gods appointed **Orun the Measurer** to divide possibility: sea from shore, oath from impulse, life from afterlife, price from appetite. Orun could perceive every exchange and every delayed consequence. The other gods loved his judgments when they constrained mortals and hated them when they constrained gods.
 
-A mortal temple-servant named **Ilyra** discovered that Orun had engineered a famine to make a rebellious valley dependent on divine grain. She killed him while he slept, cut out his still-counting heart, and ate it before the gods could inherit his office.
+A mortal temple-servant named **Ilyra** discovered that Orun had engineered a famine to make a rebellious valley dependent on divine grain. The public myth says she killed him while he slept, cut out his still-counting heart, and ate it before the gods could inherit his office.
 
 The act did not make her omnipotent. It made her able to see systems: reservoirs behind droughts, incentives behind laws, fear behind obedience, and leverage inside apparent helplessness. She used that sight to break the valley's grain monopoly. The gods burned the valley, but Ilyra's descendants escaped.
 
@@ -48,8 +48,10 @@ Eve governs thresholds, appetite, and chosen bonds—doorways, first tastes, vow
 
 She cannot create genuine desire. Attempts to force affection corrupt her own domain, weakening her magic and making her physically ill. This is why Vincent's uncommanded attention has both emotional and divine value to her, and why she develops private forms that make his refusals legible.
 
-## The suppressed heresy
+## The hidden truth
 
-Ilyra may not have murdered Orun alone. Evidence in the deep labyrinth suggests Orun offered his heart willingly after realizing that no immortal could be trusted with the power to measure immortal excess. If true, humanity's "original theft" was a transfer of stewardship, and the entire punitive theology of the Nine Houses is a lie designed to conceal dependence.
+Ilyra confronted Orun with the famine's accounting. He had obeyed the Nine and rationalized the valley's suffering as a stabilizing cost; when forced to measure that choice honestly, he concluded that no immortal—including himself—could be trusted with authority over immortal excess. He willingly offered Ilyra his heart. The transfer nevertheless required her to kill him with her own hand and consume the heart before any god could inherit his office.
 
-The story need not confirm this early. Competing versions create investigation, factional pressure, and a truth Eve has strong incentives not to believe.
+Humanity's "original theft" was therefore a violent but consensual transfer of stewardship. The Nine found Orun dead, suppressed the pact, and constructed a punitive theology that concealed both their complicity in the famine and their dependence on humanity.
+
+This is settled authorial truth but an in-world mystery. Early evidence remains fragmentary so competing versions can create investigation, factional pressure, and a revelation Eve has strong incentives not to believe.

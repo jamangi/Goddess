@@ -30,7 +30,7 @@ System revelation: harder games increase monster generation rather than reducing
 
 ## III. The Maze Keeps Accounts
 
-Vincent and Eve descend secretly into an unlisted corridor and meet the Uncounted. They learn that restitution can calm remainders. Vincent's sister may be among them. Meanwhile laurel prices surge and House Veyra demands emergency quotas.
+Vincent and Eve descend secretly into an unlisted corridor and meet the Uncounted. They learn that restitution can calm remainders. Vincent finds his surviving sister Mara among them; she distrusts Eve and considers Vincent's intimacy with his owner a political compromise. Meanwhile laurel prices surge and House Veyra demands emergency quotas.
 
 Key romantic beats:
 
@@ -56,7 +56,7 @@ System revelation: the deepest ward can be stabilized by surrendering divine cla
 
 During the festival, rebellion, reserve panic, and a labyrinth breach coincide. Vincent can lead a spectacular prison break, but flight alone leaves the poorest districts exposed. Eve can stabilize the breach by relinquishing part of her immortality and voiding every bond held by her House, creating a legal and magical precedent the other gods cannot contain.
 
-Possible climax:
+The climax:
 
 - Vincent turns the crowd from spectators into witnesses of the true accounting.
 - Eve opens every votary door and makes the act irreversible.
@@ -65,23 +65,9 @@ Possible climax:
 
 Romantic payoff: After Eve makes leaving possible without asking for love as payment, Vincent chooses to return to her side. Their former public hierarchy may survive as scandalous theater in private, no longer backed by law.
 
-## Ending variants
+## Canon ending: dark hopeful
 
-### Dark hopeful (recommended)
-
-The Ninefold order fractures rather than vanishes. Eve becomes finite but remains formidable. Vincent helps build a self-governing expedition compact. Their love is real, reparative, and still haunted.
-
-### Tragic divine
-
-Eve spends all her measure to open the wards and dies mortal in Vincent's arms after a brief free life. The new civic order mythologizes them inaccurately.
-
-### Corrupting romance
-
-They seize the system together and improve material life while becoming a beautiful new ruling pair. The reader can see that private tenderness has become public paternalism.
-
-### Revolutionary separation
-
-They free the votaries but cannot remain together. Years later they meet as political equals and decide whether desire survived the loss of forbiddenness.
+The Ninefold order fractures rather than vanishes. Eve spends enough of her divine measure to become finite but remains formidable; the sacrifice cannot be reversed by Vincent returning to her. Ownership ends in law and magic. Vincent helps build a self-governing expedition compact while Eve works inside the damaged civic order to make divine restitution enforceable. Their love is real, reparative, freely monogamous, and still haunted—leaving political and romantic pressure for continued play.
 
 ## Pacing principle
 

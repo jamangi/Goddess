@@ -14,7 +14,7 @@ All principal romantic and sexual characters are adults.
 4. [Their private culture](romance_systems/PRIVATE_CULTURE.md)
 5. [Desire priorities](romance_systems/DESIRES.md) and [tension engine](romance_systems/TENSIONS.md)
 6. [Outer-story arc](story/OUTER_STORY.md) and [roleplay loop](story/ROLEPLAY_ENGINE.md)
-7. [Decisions for the creators](decisions/APPROVALS.md)
+7. [Approved canon decisions](decisions/APPROVALS.md)
 
 ## Design folders
 

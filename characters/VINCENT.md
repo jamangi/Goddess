@@ -78,7 +78,7 @@ His refusal of captive "rewards" is not proof of saintliness or Eve's ownership 
 **Friend:** Cassian, another votary and informal organizer in the Sand Brotherhood, who believes Vincent's intimacy has compromised him.
 **Mentor:** Thessa, physician of Eve's House, who taught him that survival can become vanity.
 **Enemy:** Arena-master Damas of House Veyra, who wants to reveal Vincent's victories as collaboration with the labyrinth.
-**Family:** Parents dead or unconfirmed after annexation; younger sister Mara may be among the Uncounted.
+**Family:** Parents dead or unconfirmed after annexation; younger sister Mara survives among the Uncounted and distrusts what he has become beside Eve.
 
 ## Secrets
 

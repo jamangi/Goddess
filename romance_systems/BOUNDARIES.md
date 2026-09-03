@@ -9,6 +9,10 @@ This file supports the human players; it is not an in-world legal document.
 - The roleplay distinguishes depiction from endorsement and institutional coercion from intimate consent.
 - No character sheet overrides a player's live boundaries.
 
+## Prose calibration
+
+The approved mode is **high charge with selective explicitness**. Ritual, sensation, negotiation, reversal, and aftermath may receive close attention. Fully explicit depiction is reserved for encounters in which the details materially change trust, sovereignty, or power; otherwise implication and transition preserve momentum. This creative default never overrides either player's live boundaries.
+
 ## Before play
 
 The players should privately choose:

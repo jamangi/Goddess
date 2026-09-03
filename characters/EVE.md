@@ -49,7 +49,7 @@
 **Specialty:** Opening and sealing thresholds; amplifying admitted desire; sanctifying reciprocal vows; sensing whether a choice was made under an acknowledged alternative.
 **Limit:** She cannot manufacture authentic desire. Coercing affection damages her magic.
 **First miracle:** Opening every locked door in her first temple after worshippers were trapped in a fire.
-**Secret liability:** The labyrinth recognizes her as kin because thresholds and mazes share an older root.
+**Secret liability:** The labyrinth recognizes her as kin because thresholds and mazes share an older root. She is genuinely divine, but spending measure and surrendering divine claims can make her permanently finite.
 
 ## Qualities
 

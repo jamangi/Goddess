@@ -70,7 +70,7 @@ Eve is drawn to voluntary restraint because it gives her a rare experience: powe
 
 They begin with no formal claim of monogamy. Instead they adopt **first disclosure**: neither allows the institution to assign another person as a sexual reward, test, or political message without telling the other what occurred.
 
-Vincent's refusal of captive women creates a turning point. Eve must decide whether her relief comes from love, possession, or solidarity with those women. A mature compact may become sexually exclusive while explicitly rejecting the idea that Eve owns his fidelity.
+Vincent's refusal of captive women creates a turning point. Eve must decide whether her relief comes from love, possession, or solidarity with those women. Their mature compact becomes freely monogamous while explicitly rejecting the idea that Eve owns his fidelity. Exclusivity is a mutual promise either can leave, never a surviving term of patronage.
 
 ## The favor economy
 
