@@ -2,7 +2,7 @@
 
 **Recommended reasoning effort:** High
 
-**Status:** Complete — all four character anchors approved
+**Status:** Complete — current character anchors approved, including Vincent v2
 
 ## Goal
 
@@ -49,6 +49,7 @@ Save the selected project candidates as:
 - `characters/Eve/illustrations/eve-public-garb-turnaround-v1.png`
 - `characters/Vincent/illustrations/vincent-physique-turnaround-v1.png`
 - `characters/Vincent/illustrations/vincent-public-garb-turnaround-v1.png`
+- `characters/Vincent/illustrations/vincent-public-garb-turnaround-v2.png`
 
 Do not overwrite an existing anchor. Increment the version suffix instead.
 
@@ -64,9 +65,8 @@ Update the `Approved anchors` section of each `MODEL.md` with:
 - Eve's physique sheet shows one consistent adult identity from front, three-quarter, side, and back in modest plain swimwear, with coherent anatomy and neutral poses.
 - Eve appears 25, 5'7", and 133 lb, with a slim, relatively long-limbed, lightly athletic physique, blonde hair, light peach natural skin, dark amber eyes, and bare feet.
 - Eve's public-garb sheet preserves the physique anchor while adding canonical divine clothing that is coherent from every angle.
-- Vincent's physique sheet shows one consistent adult identity from front, three-quarter, side, and back in a modest minimal training garment, with coherent anatomy and neutral poses.
-- Vincent appears 31, 6'2", and about 205 lb, with a powerful economical fighter's build, youthful but battle-hardened face, warm medium-bronze sun-browned skin darker than Eve's, restrained scars, and observant bearing.
-- Vincent's public-garb sheet preserves the physique anchor while adding restrained champion clothing and practical strapped gladiator sandals coherent from every angle.
+- Vincent's v1 physique sheet supplies coherent 6'2", 205 lb body proportions and general scar placement from front, three-quarter, side, and back; its visible identity features are superseded.
+- Vincent's v2 public-garb sheet controls his youthful but battle-hardened face, near-black tightly coiled hair, neatly shaped close beard and mustache, deep warm-brown skin darker than Eve's, restrained scars, observant bearing, champion clothing, and practical strapped gladiator sandals.
 - The images share a visual world and rendering style while making their status contrast immediately legible.
 - No modern objects, phones, mirrors, printed graphics, logos, watermarks, or unintended text remain.
 - Private input references are not committed.
@@ -82,8 +82,10 @@ Update the `Approved anchors` section of each `MODEL.md` with:
 - Generated `eve-public-garb-turnaround-v1.png` from the approved physique anchor.
 - Owner approved the public-garb sheet; it is now Eve's canonical public-appearance anchor.
 - Both sheets show Eve barefoot in all four views.
-- Updated Vincent's visual canon to specify warm medium-bronze sun-browned skin, distinctly darker than Eve's, and practical gladiator sandals in public garb.
+- Updated Vincent's original v1 visual canon to specify warm medium-bronze sun-browned skin, distinctly darker than Eve's, and practical gladiator sandals in public garb.
 - Generated `vincent-physique-turnaround-v1.png` using Eve's physique sheet only for shared art direction and two private images only for bronze skin tone.
 - Generated `vincent-public-garb-turnaround-v1.png` from Vincent's physique anchor, using Eve's garbed sheet only for shared world rendering.
 - Owner approved both Vincent sheets; they are now his canonical physique and public-appearance anchors.
-- Task 001 is complete with four approved, documented character reference sheets.
+- The original four-sheet Task 001 pass was completed and documented before Vincent's later v2 identity revision.
+- Owner later approved `vincent-public-garb-turnaround-v2.png` as Vincent's new controlling identity and public-garb reference.
+- Vincent v2 establishes near-black tightly coiled hair, a close beard and mustache, and deeper warm-brown skin. The v1 physique sheet now controls body proportions and scar placement only; v1 public garb is superseded.

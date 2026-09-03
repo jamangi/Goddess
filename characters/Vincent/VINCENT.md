@@ -24,12 +24,12 @@ Visual continuity: [illustration model](illustrations/MODEL.md).
 ## Appearance
 
 **Age:** 31.
-**Hair:** Dark brown, worn short enough that opponents cannot grip it.
+**Hair:** Near-black, dense, and tightly coiled, forming a compact irregular crown kept short enough that opponents cannot grip it.
 **Eyes:** Gray-green; unfocused when his Red Measure becomes intense.
-**Skin:** Warm medium-bronze and visibly sun-browned, distinctly darker than Eve's light peach complexion, with pale arena scars.
+**Skin:** Deep warm-brown and visibly sun-touched, distinctly darker than Eve's light peach complexion, with pale arena scars.
 **Height:** 6'2" / 188 cm.
 **Weight:** About 205 lb / 93 kg.
-**Face:** Handsome in an approachable rather than aristocratic way; broken nose set well, expressive mouth.
+**Face:** Youthful but battle-hardened and handsome in an approachable rather than aristocratic way; strong brows, gray-green eyes, a broad expressive mouth, a broken nose set well, and a neatly shaped close beard with a short mustache.
 **Body:** Powerful, economical, scarred; built by labor and survival rather than display.
 **Dominant hand:** Right, but trains both.
 **Common dress:** Dark training wrap, practical strapped gladiator sandals, Eve's pomegranate-key token, no ornamental laurels unless politically necessary.
