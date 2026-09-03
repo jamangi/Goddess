@@ -27,8 +27,9 @@ Visual continuity: [illustration model](illustrations/MODEL.md).
 **Hair:** Blonde, long and heavy, usually arranged with gold keys; loosened in private.
 **Eyes:** Dark amber, brightening around the iris when she opens a threshold.
 **Skin:** Light peach complexion with soft natural peach-fuzz texture; faint gold lines appear at wrist and throat when she uses power.
-**Height:** 5'10" / 178 cm.
-**Build:** Long-limbed, soft-strong, visibly accustomed to being looked at.
+**Height:** 5'7" / 170 cm.
+**Weight:** 133 lb / 60 kg.
+**Build:** Slim, relatively long-limbed, and lightly athletic with a soft-strong silhouette; visibly accustomed to being looked at.
 **Face:** Regal at rest, dangerously readable when surprised.
 **Dominant hand:** Left.
 **Common dress:** Architectural black or wine-colored linen, a ceremonial collar of interlocking keys, bare arms, and bare feet. Gold anklets may mark formal occasions, but she considers footwear an irritating concession to mortal streets.
