@@ -6,7 +6,7 @@ In a divine city whose economy is stabilized by enslaved mortal champions fighti
 
 ## The setting
 
-The Ninefold City is a mythic Mediterranean power rather than historical Rome. Bronze, linen, bathhouses, sacred courts, patron households, public games, debt bondage, and military pageantry give it a classical silhouette. Gods walk openly among mortals and organize themselves into nine immortal Houses. Their society insists that mortals are lesser beings carrying stolen divinity.
+The Ninefold City is a mythic Mediterranean power. Bronze, linen, bathhouses, sacred courts, patron households, public games, debt bondage, and military pageantry give it a classical silhouette. Gods walk openly among mortals and organize themselves into nine immortal Houses. Their society insists that mortals are lesser beings carrying stolen divinity.
 
 Every House purchases, breeds, trains, or sponsors mortal **votaries**. The official word means "one given to a god"; the honest word is slave. Votaries enter the labyrinth to kill its beasts and retrieve ichor-crystal called **measure**. Some fights occur in grand amphitheaters when the labyrinth opens into public chambers. Others happen below the city where nobody applauds.
 

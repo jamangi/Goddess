@@ -6,6 +6,8 @@ The setting treats power as a system rather than a ladder. Eve possesses law, we
 
 All principal romantic and sexual characters are adults.
 
+**Public world guide:** [jamangi.github.io/Goddess](https://jamangi.github.io/Goddess/)
+
 ## Start here
 
 1. [Core premise](world/PREMISE.md)
