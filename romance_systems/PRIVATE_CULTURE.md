@@ -60,6 +60,8 @@ Eve initially treats this as an elegant novelty. It becomes the mechanism that p
 
 Eve is drawn to voluntary restraint because it gives her a rare experience: power becoming finite without becoming humiliating. Vincent is drawn to being entrusted with the safety of someone who could destroy him publicly. For this dynamic to remain meaningful:
 
+Vincent's excellent service is partly an expression of dominance-minded attention. He studies what authority is trying to accomplish, anticipates needs, and makes himself useful enough to influence the shape of the command. With Eve, service can become a concealed transfer: she remains the master in public form while inviting him to author pace, method, and intensity. His Red Measure makes him unusually sensitive to that invitation, but never turns inference into consent. He tests the opening through their agreed signals; she confirms, narrows, or closes it.
+
 - Eve must initiate some reversals and Vincent must decline some.
 - Vincent never uses private physical control to obtain an unrelated political promise in the moment.
 - Political ideas arising from intimacy are revisited later with the collar on and full exit available.

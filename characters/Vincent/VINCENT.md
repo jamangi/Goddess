@@ -4,6 +4,8 @@
 
 Visual continuity: [illustration model](illustrations/MODEL.md).
 
+Profile cover: [Vincent at the river boatyard](illustrations/vincent-cover-v1.png).
+
 ## Identity
 
 **Name:** Vincent
@@ -38,6 +40,7 @@ Visual continuity: [illustration model](illustrations/MODEL.md).
 
 **Hometown:** A river city absorbed by the Ninefold City's grain wars.
 **Cultural heritage:** Boat-builders, flood farmers, and communal granaries.
+**Former trade:** River boat-builder. He learned to select timber, shape ribs, read grain and load, seal hulls, and coordinate crews before captivity converted those instincts into combat advantages.
 **First language:** River dialect; civic common learned in captivity.
 **Historical events witnessed:** His city's engineered grain shortage, annexation, forced march, and the western maze breach.
 **Important life event:** During his first labyrinth round he survived by repairing a monster's broken chain rather than attacking it; the chain bound a promise, and fulfilling it dissolved the creature.
@@ -70,7 +73,13 @@ Visual continuity: [illustration model](illustrations/MODEL.md).
 
 ## Relationship to sexual power
 
-Vincent enjoys control most when it is entrusted, not seized. Eve's willingness to experiment gives him a private language through which he can ask for forms of authority the public world denies him. He is careful with visible vulnerability because he understands its cost. He is attracted to her appetite, intelligence, grandeur, and flashes of awkward sincerity—not her legal power over him.
+Vincent is a **dominance-minded experimentalist**. His central carnal engine is the desire to exercise loving, attentive control over the person he loves: to read her closely, decide with confidence, shape an experience around her responses, and feel her knowingly yield. The desire is passionate rather than cold. It intensifies his tenderness because entrusted power makes every detail of her safety and pleasure feel like his responsibility.
+
+He enjoys control most when it is entrusted, not seized. Eve's willingness to experiment gives them a private laboratory for restraints, roles, rituals, ordeals, service, pursuit, and reversals. He is less novelty-hungry than Eve, but highly experimental when a new form can reveal trust, sharpen authority, or let them inhabit a contradiction they cannot safely express in public.
+
+His dominant imagination also makes him unusually comfortable inside outward service. He understands what an ideal servant looks like from a master's point of view: anticipatory, competent, composed, and capable of making authority feel effortless. He can offer that performance without surrendering his interior sovereignty. With Eve, he recognizes the subtler exchange in which a powerful but submissive-minded master gives commands partly to invite the dominant servant to take control of how those commands are fulfilled. He notices when her authority is a sincere order, when it is theater, and when it is a request to be relieved of command. Because inference can become self-serving, their private culture requires him to test that reading and receive confirmation rather than treating perception as permission.
+
+This is why legal ownership does not automatically make him feel sexually powerless, though he never confuses endurance with freedom. Publicly he may be the owned champion; privately, when Eve chooses the reversal, he becomes the author of pace, structure, and consequence. He is attracted to her appetite, intelligence, grandeur, and flashes of awkward sincerity—not to her legal power over him.
 
 His refusal of captive "rewards" is not proof of saintliness or Eve's ownership of his sexuality. He refuses because coerced availability repels him, because attachments can be used against everyone involved, and because he does not want to turn jealousy into another weapon between himself and Eve. If he tells Eve, it should force them to discuss the women as people rather than prizes.
 

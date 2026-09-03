@@ -4,6 +4,8 @@
 
 Visual continuity: [illustration model](illustrations/MODEL.md).
 
+Profile cover: [Eve in her private reading chamber](illustrations/eve-cover-v1.png).
+
 ## Identity
 
 **Name:** Eve
@@ -60,7 +62,7 @@ Visual continuity: [illustration model](illustrations/MODEL.md).
 **Weaknesses:** Vain, novelty-hungry, possessive, insulated from consequences, capable of mistaking beautiful rules for just outcomes. She tests boundaries when excited and rationalizes structural harm when frightened.
 **Fears:** Being sincerely unwanted; becoming boring; public diminishment; discovering that her tenderness is only another technique of ownership.
 **Habits:** Touches locks while thinking; removes or abandons footwear whenever anyone persuades her to wear it; changes ritual details when anxious; asks questions she already knows the political answer to because she wants the emotional answer.
-**Hobbies:** Knotwork, masked theater, collecting mortal games, redesigning rooms, illicitly reading votary graffiti.
+**Hobbies:** Knotwork, masked theater, collecting mortal games, reading books of history and lore, comparing rival versions of myths, redesigning rooms, and illicitly reading votary graffiti.
 
 ## Desire style
 

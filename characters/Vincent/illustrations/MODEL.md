@@ -129,6 +129,36 @@ Avoid: decorative bodybuilder proportions; ornate royal armor; blond hair; blue 
 
 Iterate with one targeted correction at a time and repeat the fixed identity constraints in every revision.
 
+## Profile cover
+
+### Vincent at the river boatyard v1
+
+**File:** `vincent-cover-v1.png`
+
+**Created:** September 3, 2026
+
+**Status:** Canonical profile-opening cover and scene reference. Use it before Vincent's profile text. It establishes boat-building as the origin of his structural intelligence and renders the Red Measure as perceived grain, force, and load rather than spectacle. It does not supersede the v2 public-garb anchor for identity or wardrobe continuity.
+
+**Generation mode:** Built-in image generation with `vincent-public-garb-turnaround-v2.png` as the sole image reference.
+
+**Final prompt:**
+
+```text
+Use case: illustration-story
+Asset type: vertical character-profile cover image
+Primary request: create a lore-rich cover portrait of Vincent practicing his former river boat-building trade, showing that his systems intelligence predates the arena
+Input images: Image 1 is Vincent's canonical public-garb and identity anchor and controls his exact adult identity, youthful-but-battle-hardened face at 31, near-black tightly coiled hair, close beard and mustache, gray-green eyes, deep warm-brown skin, pale scars, powerful 6-foot-2 205-pound build, dark layered work/champion garb, pomegranate-key token, gladiator sandals, and painterly rendering style
+Scene/backdrop: a mythic Mediterranean river boatyard at late afternoon; a half-built wooden riverboat rests on stocks, with curved ribs, planks, coils of rope, wood shavings, clamps, pegs, and river water beyond; practical and lived-in, not a modern shipyard
+Subject/action: Vincent works at the half-built hull, one hand steadying a curved timber rib while the other uses a period-appropriate adze or drawknife; his posture shows controlled strength and expert concentration rather than posing; his face remains clearly visible in three-quarter profile; subtle reddish-gold Red Measure lines follow wood grain, load paths, and joints, suggesting he perceives structural forces rather than casting a flashy spell
+Style/medium: polished semi-realistic mythic fantasy narrative illustration matching the canonical anchor and Eve cover, painterly realism, believable anatomy, rich environmental storytelling
+Composition/framing: vertical 4:5 cover composition, three-quarter or near-full-body view, Vincent immediate focal point, boat structure framing him, hands/tool/wood interaction coherent, face readable, sandals visible or at least not contradicted, no title block and no typography
+Lighting/mood: warm river sunlight, sawdust in the air, cool reflected water light; competent, intimate, quietly powerful, thoughtful rather than aggressive
+Color palette: deep warm-brown skin, near-black hair, charcoal and black linen, worn brown leather, river gray-green, honeyed wood, muted bronze, restrained pomegranate red
+Materials/textures: natural skin and coiled hair, worn linen and leather, fresh-cut wood grain, rope fiber, aged bronze, river water
+Constraints: preserve Vincent's exact v2 identity, hair, beard, skin tone, scars, build, and clothing language; show genuine boat-building activity with plausible hand-tool use and hull construction; Red Measure effects subtle and integrated; no other prominent people; no modern machinery; no text; no logos; no watermark
+Avoid: generic blacksmithing; completed ship at sea; modern power tools; fantasy armor; weapon pose; rage expression; copied stock-photo posture; extra fingers; incoherent tool grip; floating lumber; bright sci-fi holograms; lighter skin; straight hair; clean-shaven face
+```
+
 ## Anchor registry
 
 ### Canonical public-garb and identity anchor v2

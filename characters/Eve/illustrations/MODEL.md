@@ -142,6 +142,36 @@ Before accepting an Eve illustration, verify:
 
 Iterate with one targeted correction at a time and repeat the fixed identity constraints in every revision.
 
+## Profile cover
+
+### Eve in her private reading chamber v1
+
+**File:** `eve-cover-v1.png`
+
+**Created:** September 3, 2026
+
+**Status:** Canonical profile-opening cover and scene reference. Use it before Eve's profile text. It establishes her private visual ecology—books, disputed myths, votary graffiti, theater masks, locks, and deliberately clashing room design—but does not supersede the approved turnaround sheets for identity, physique, or garment construction.
+
+**Generation mode:** Built-in image generation with `eve-public-garb-turnaround-v1.png` as the sole image reference.
+
+**Final prompt:**
+
+```text
+Use case: illustration-story
+Asset type: vertical character-profile cover image
+Primary request: create a lore-rich cover portrait of Eve in her private chamber, expressing her appetite for books, myths, room design, theater, votary graffiti, and locks
+Input images: Image 1 is Eve's approved public-garb anchor and controls her exact adult identity, face, apparent age 25, long blonde hair, light peach natural skin, dark amber eyes, slim 5-foot-7 133-pound physique, black-and-wine goddess clothing, gold key collar, pomegranate-key ornament, bare feet, and painterly rendering style
+Scene/backdrop: an intimate chamber above the labyrinth whose deliberately redesigned interior contains clashing styles: ancient pale limestone architecture, a plush mismatched dark reading chair, deep wine drapery, a disorderly corner stack of books and scrolls about histories, myths, and lore, abstract scratched votary graffiti on one wall, and several theatrical masks hanging on another wall; layered but visually coherent
+Subject/action: Eve sits cross-legged in the chair in her canonical asymmetrically draped black and wine linen garb, relaxed but unmistakably regal; both bare feet are clearly visible and naturally posed on the chair; one hand rests near an open book while the fingertips of the other hand idly touch an old ornate bronze door lock mounted in a small cabinet beside the chair, her habitual thinking gesture; her expression is privately curious, faintly amused, and intellectually absorbed; dark amber eyes catch a subtle brighter magical ring around each iris
+Style/medium: polished semi-realistic mythic fantasy narrative illustration matching the approved anchor, painterly realism, believable anatomy, rich environmental storytelling
+Composition/framing: vertical 4:5 cover composition, three-quarter full-body view with Eve as the immediate focal point, face and both bare feet unobscured, surrounding lore details readable at a glance without clutter, no empty title block and no typography
+Lighting/mood: warm amber reading light and narrow threshold light crossing cooler room shadows; intimate, intelligent, sensuous without erotic posing, slightly uncanny
+Color palette: black, deep wine, pomegranate red, warm aged gold, amber, parchment, pale limestone, restrained charcoal graffiti
+Materials/textures: woven linen, aged bronze and gold, worn leather book bindings, parchment, carved limestone, natural skin and hair texture
+Constraints: preserve Eve's exact identity and canonical wardrobe; visibly barefoot with coherent feet; seated cross-legged anatomy must be natural; the touched object must clearly be a physical bronze lock rather than hair; graffiti is abstract and non-legible; books have no readable titles; no other people; no modern objects; no text; no logos; no watermark
+Avoid: shoes or sandals; cropped or hidden feet; throne-room stiffness; generic library; modern furniture; legible graffiti words; extra limbs or fingers; floating objects; overtly erotic pose; black hair; blue eyes; armor
+```
+
 ## Approved anchors
 
 ### Canonical physique anchor v1

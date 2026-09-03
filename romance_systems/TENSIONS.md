@@ -27,6 +27,7 @@ The pressures are nearly equal. She does not simply decide. She drafts a conditi
 |---|---|---|---|
 | ownership vs choice | access to him is legally guaranteed | affection must remain unowned | he makes a voluntary offering after a credible refusal |
 | public command vs private surrender | must appear sovereign | wants entrusted authority | coded reversals outsiders misread |
+| service vs dominance | experiences his competence as ownership's benefit | uses ideal service as a vehicle for chosen control | he fulfills the order while she voluntarily yields authorship of how |
 | appetite vs ethics | novelty can outrun reflection | can leverage her curiosity | experiments include terms, end points, and honest debriefs |
 | protection vs captivity | safety comes through her House | protection can become a prettier cage | he asks for protection of others, not more comfort for himself |
 | exclusivity vs solidarity | wants singular importance | belongs to a collective struggle | she must help people who do not love her |

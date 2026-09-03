@@ -56,11 +56,12 @@ When two high desires conflict within one character, do not resolve the clash qu
 
 | Desire | Score | Expression |
 |---|---:|---|
+| Exercise loving, entrusted dominance | 97 | His sexual engine: decisive control made meaningful by a loved partner's chosen yielding. |
 | Experience intimacy he actively chooses | 96 | The distinction between access and permission matters intensely. |
-| Bring Eve into chosen vulnerability | 88 | Part pleasure, part trust, part reversal of public hierarchy. |
+| Bring Eve into chosen vulnerability | 94 | Part pleasure, part trust, part reversal of public hierarchy. |
 | Be desired as a man rather than an asset | 93 | Praise for utility cannot satisfy it. |
 | Protect partners from institutional exploitation | 95 | Explains his refusal of captive rewards. |
-| Experiment when trust is growing | 79 | Curious but less novelty-driven than Eve. |
+| Experiment with chosen power exchange | 91 | New forms interest him when they reveal trust, sharpen authority, or embody a useful contradiction. |
 | Retain emotional composure | 73 | Often sacrificed when honesty becomes necessary. |
 
 ### Social and relational
