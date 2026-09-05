@@ -156,6 +156,9 @@ function routeFromHash() {
   } else if (normalized === "gallery") {
     selectView("gallery");
     document.title = "Gallery · Goddess";
+  } else if (normalized === "mythology") {
+    selectView("mythology");
+    document.title = "Mythology · Goddess";
   } else {
     selectView("world");
     document.title = "Goddess · The Ninefold City";

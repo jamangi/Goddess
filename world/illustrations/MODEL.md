@@ -67,7 +67,7 @@ Avoid: generic fantasy minotaur; bodybuilder bull-man; cow nose caricature; roar
 
 **Created:** September 5, 2026
 
-**Status:** Candidate portrayal of Orun before his death, showing his perception of exchanges and delayed consequences.
+**Status:** Canonical public portrayal of Orun before his death and the hero image for the Mythology view, showing his perception of exchanges and delayed consequences.
 
 **Generation mode:** Built-in image generation. Eve's approved cover supplied only the polished character treatment, materials, and intimate painterly light; the canonical Ninefold City vista supplied the civic scale, palette, and systems-light. Eve's identity and both source compositions were excluded.
 
