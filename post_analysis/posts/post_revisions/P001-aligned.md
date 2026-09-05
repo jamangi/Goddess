@@ -2,6 +2,8 @@
 
 Source: [P001 v1](../P001/source.md). Author of original: W001. Editor: assistant. Status: proposed, not adopted. Alignment confidence: low, based on one fragment. Preserves the original focus and does not supply Eve's response.
 
+Update, 2026-09-05: W001 likes this proposal and selected its opening with an earlier stopping point. The preferred current version is [P001-author-selected](P001-author-selected.md); the complete longer proposal below is preserved for comparison. See [feedback](../P001/feedback.md).
+
 ## Revised prose
 
 Vincent returned from the labyrinth and made his way to the palace. As he traversed the lavish halls towards the baths, his thoughts of violence and guerrilla strategy gave way to domestic concerns—and to what he considered his greatest personal project: the goddess herself.

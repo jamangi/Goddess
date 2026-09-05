@@ -28,6 +28,7 @@ Use 0–3 only for local descriptive prominence: **0** absent despite opportunit
 | Sincerity and strategy | Each separately, then how they coexist or conflict. A calculating character does not imply a calculating writer. |
 | Agency | Invitations, decisions, refusals, attributed partner actions, and whether choices remain available. |
 | Reply affordances | Distinct consequential choices offered to the next player; repetition of one invitation is not multiple independent hooks. |
+| Turn boundary | First meaningful recipient decision, later beats that depend on its answer, and which are deferred. Note what the reader knows versus what the addressed character has heard. Earlier pauses are options, not a universal rule. |
 | Emotional exposure | What the viewpoint character risks revealing, and what remains protected by wit or explanation. |
 | Scene movement | Starting state → action/proposal → changed possibility. A proposal is not an accepted outcome. |
 | Continuity | Supported, contradicted, plausible addition, or unknown; cite the relevant canon file. |

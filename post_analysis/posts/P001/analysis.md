@@ -2,6 +2,8 @@
 
 Source: [original fragment](source.md). Writer: [W001](../../writers/W001.md). Method: [v1](../../METHOD.md). One fragment; no recipient response. Analysis date: 2026-09-05.
 
+**Feedback update:** W001 likes the aligned revision and has [selected an earlier ending](../post_revisions/P001-author-selected.md), at the reward question. See [F001](feedback.md) for revised handoff analysis, tentative pattern endorsement, and calibration limits. The measures and source anchors below continue to describe the original v1, not the selected revision.
+
 ## Editorial finding
 
 The strongest feature is the paradox that Vincent gets more persuasive when he asks what he actually wants. The move from combat to domestic intention, the washing/negotiating analogy, and the politely directive invitation give this opening a recognizable shape. The main craft opportunity is to trust that paradox enough to explain it fewer times. Preserve its moral ambiguity: “personal project” is both affectionate and instrumental.
@@ -71,7 +73,7 @@ Prediction for calibration: W001 may prefer an edit that retains “personal pro
 | Ambiguity | Retains “hidden weakness” as written. | Retains the same unresolved phrase; does not decide what the weakness is. |
 | Canon additions | None; C01 remains an external note. | None; recovery bridge remains optional. |
 | Partner authorship | No new partner action. | No new partner action; explicit waiting clarifies the turn boundary. |
-| Validation | Not selected or played. | Predicted alignment only; not selected or played. |
+| Validation | No selection reported. | Positively received; opening retained with an earlier author-selected ending. Submission and partner response unconfirmed. |
 
 The aligned alternative is not automatically superior. If the explanatory abundance is part of the intended charm, use the mechanical version and take only the staging edit.
 

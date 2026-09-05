@@ -10,6 +10,8 @@
 
 ## Pending approvals
 
+Feedback update, 2026-09-05: W001 positively received the aligned proposal and selected a shorter version ending at the reward question. Recorded that selection, tentative pattern endorsement, and the new handoff preference. Publication of these lab updates is explicitly authorized; partner response remains pending. Original sources and world canon remain unchanged.
+
 None required to implement the lab. No routine editorial choice is blocked on an approval.
 
 ## Optional calibration and unresolved context
@@ -19,7 +21,7 @@ None required to implement the lab. No routine editorial choice is blocked on an
 | Mission haul and handoff | Use a one-sentence measure-delivery bridge only if the preceding mission supports it. Current revisions leave it open. |
 | “Hidden weakness” | Preserve the ambiguity for now; later clarify whether it is a character belief, a known interaction pattern, or a deliberate mystery. |
 | Negotiation topic | Identify it in the continuation; distinguish private terms from unrelated political concessions. |
-| Writer recognition | Author may mark which revision or individual lines feel most theirs. No answer is required before using the lab. |
+| Writer recognition | Initial feedback received: aligned prose liked; four candidates tentatively endorsed. Selected earlier stopping point recorded in F001. Recurrence awaits independent posts. |
 | Partner evidence | Await an actual partner-authored post and any explicitly shared preferences. No substitute profile is inferred from Eve. |
 
 These are context and feedback opportunities, not implied canon changes or requests to approve the generated prose for posting to the RP partner.

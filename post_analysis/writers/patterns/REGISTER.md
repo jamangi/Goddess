@@ -2,6 +2,8 @@
 
 All entries are candidates from one fragment, received 2026-09-05. Several examples within a fragment still constitute one independent post. See [lifecycle rules](../../METHOD.md). Split substantial entries into individual files later while retaining these IDs and links.
 
+Feedback update, 2026-09-05: [F001](../../posts/P001/feedback.md) tentatively endorses PAT-001–PAT-004. This adds self-report, not independent recurrence or statistical likelihood. Approval of the tighter prose qualifies PAT-001: explanation may be valued without its original length. The shorter chosen ending qualifies PAT-003: a characteristic imperative may be deferred when the turn boundary matters more. PAT-002 and PAT-004 have no new independent textual test.
+
 ## PAT-001 — Causal interiority
 
 - Writer: W001. Status: candidate. Independent posts: 1.
@@ -45,3 +47,15 @@ All entries are candidates from one fragment, received 2026-09-05. Several examp
 - Prediction: a short, supported logistics bridge may help more than extensive lore exposition.
 - Revision use: resolve established facts; label speculative logistics rather than installing new canon.
 - Confidence: low writer-wide. Next check: other comments and author feedback.
+
+## PAT-005 — Pause at the first recipient decision
+
+- Writer: W001. Status: candidate; explicit local preference. Independent post lineages: 1 (P001); one author feedback event, F001.
+- Observation: W001 shortens the aligned revision to end on “May I choose the reward for this latest victory?” See [selected text](../../posts/post_revisions/P001-author-selected.md).
+- Self-report: the earlier pause permits acknowledgment and anticipation before the initiative overextends (F001 F03–F04).
+- Hypothesis: in similar openings, the writer may prefer sequential invitations over delivering several planned beats in one turn.
+- Rival explanation: this particular reward question is a stronger ending; the preference may not generalize to established routines or other scene types.
+- Counterevidence/limits: the original draft did continue further, so this may be an emerging editorial preference rather than an established drafting habit. No partner response yet.
+- Prediction: another opening with multiple decision points may be revised to stop at the first consequential one.
+- Revision use: locate the first meaningful recipient choice; offer it as a stopping point when later beats depend on the answer. Acknowledgment is not acceptance of an undisclosed proposal.
+- Confidence: high for the stated P001 preference; recurrence untested. Do not infer personal anxiety or recipient irritation.

@@ -7,6 +7,7 @@ This lab serves the romance: more recognizable voices, more satisfying invitatio
 - [Method and measures](METHOD.md)
 - [Pilot source](posts/P001/source.md), [analysis and post-level profile](posts/P001/analysis.md)
 - [Mechanical revision](posts/post_revisions/P001-mechanical.md) and [writer-aligned revision](posts/post_revisions/P001-aligned.md)
+- [Author-selected stopping point](posts/post_revisions/P001-author-selected.md) and [feedback](posts/P001/feedback.md)
 - [Writer W001](writers/W001.md), [writer W002](writers/W002.md), [pattern register](writers/patterns/REGISTER.md)
 - [Reusable templates](TEMPLATES.md)
 - [Decision and approval log](APPROVALS.md)
