@@ -28,9 +28,9 @@ Constraints: original fictional architecture; visually communicate ninefold orga
 Avoid: modern skyline; generic medieval castle; Greek temple floating in emptiness; pristine white marble theme park; sci-fi machinery; steampunk gears; giant humanoid gods; monster face in the city; duplicated buildings; legible signage; excessive fantasy glow
 ```
 
-## Lore illustration candidates
+## Lore illustrations
 
-These images are version-one candidates for the future Lore and Gallery views. They remain non-canonical until the owner explicitly approves them.
+The public and canonical roles of each image are recorded in its status below. The written mythology remains authoritative where an image leaves details ambiguous.
 
 ### Asterion v1
 
@@ -38,7 +38,7 @@ These images are version-one candidates for the future Lore and Gallery views. T
 
 **Created:** September 5, 2026
 
-**Status:** Candidate portrayal of the current Asterion: a remainder selected by the Labyrinth to serve as its warden.
+**Status:** Canonical public Gallery portrayal of one Asterion: a recurring office bestowed when the Labyrinth selects a remainder to serve as its warden. This is not a species reference.
 
 **Generation mode:** Built-in image generation. The canonical Ninefold City vista supplied the environment and palette reference; Vincent's approved cover supplied only grounded anatomy, physical texture, and dramatic presence. Neither composition nor character identity was copied.
 
@@ -96,7 +96,7 @@ Avoid: copying Eve; youthful prince; elderly wizard; muscular warrior king; Egyp
 
 **Created:** September 5, 2026
 
-**Status:** Candidate material study of a slain remainder crystallizing into usable Measure.
+**Status:** Canonical public Gallery material study of a slain remainder crystallizing into usable Measure, which returns denied costs to usable form and sustains the city's wards and divine economy.
 
 **Generation mode:** Built-in image generation. The canonical Ninefold City vista supplied only the project's painterly material language, palette, and restrained measure-light.
 
@@ -125,7 +125,7 @@ Avoid: bloody gore; severed recognizable head; generic glowing red crystal; trea
 
 **Created:** September 5, 2026
 
-**Status:** Candidate environment study of the Labyrinth reconfiguring itself around the hidden cost of an engineered grain shortage.
+**Status:** Canonical public Gallery environment study of the living Labyrinth—the materialized remainder of Orun's unfinished mind—reconfiguring itself around the hidden cost of an engineered grain shortage.
 
 **Generation mode:** Built-in image generation. The canonical Ninefold City vista supplied only the project environment style, architectural language, palette, and systems-light.
 

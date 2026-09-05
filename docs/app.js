@@ -153,6 +153,9 @@ function routeFromHash() {
     selectView("characters");
     selectCharacter(character);
     document.title = `${character === "eve" ? "Eve" : "Vincent"} · Goddess`;
+  } else if (normalized === "gallery") {
+    selectView("gallery");
+    document.title = "Gallery · Goddess";
   } else {
     selectView("world");
     document.title = "Goddess · The Ninefold City";
@@ -180,7 +183,7 @@ function enableArrowNavigation(tabs, orientation = "horizontal") {
 
 mainTabs.forEach((tab) => {
   tab.addEventListener("click", () => {
-    window.location.hash = tab.dataset.view === "world" ? "world" : "characters/eve";
+    window.location.hash = tab.dataset.view === "characters" ? "characters/eve" : tab.dataset.view;
   });
 });
 
