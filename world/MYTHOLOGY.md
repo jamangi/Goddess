@@ -40,7 +40,7 @@ The labyrinth is not merely a building. It is the materialized remainder of Orun
 
 The famous horned beast, **Asterion**, is not one creature but a recurring office: the labyrinth selects a remainder to become its warden. Killing an Asterion buys years of stability but does not cure the system that produced it.
 
-This keeps the Minotaur aesthetic while making the maze thematically diagnostic. Every monster is a bill coming due.
+In other words, every monster is a bill coming due.
 
 ## Eve's divinity
 
@@ -54,4 +54,4 @@ Ilyra confronted Orun with the famine's accounting. He had obeyed the Nine and r
 
 Humanity's "original theft" was therefore a violent but consensual transfer of stewardship. The Nine found Orun dead, suppressed the pact, and constructed a punitive theology that concealed both their complicity in the famine and their dependence on humanity.
 
-This is settled authorial truth but an in-world mystery. Early evidence remains fragmentary so competing versions can create investigation, factional pressure, and a revelation Eve has strong incentives not to believe.
+The hidden truth is an in-world mystery. Early evidence remains fragmentary so competing versions create investigations, factional pressures, and a revelation Eve has strong incentives not to believe.
