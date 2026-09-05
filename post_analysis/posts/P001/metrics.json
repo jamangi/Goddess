@@ -1,0 +1,45 @@
+{
+  "post_id": "P001",
+  "source_version": 1,
+  "method_version": 1,
+  "counting_rule": "Whitespace-delimited tokens in fenced original prose; exclude parenthetical author comment C01; retain punctuation and Markdown emphasis within tokens.",
+  "total_words": 375,
+  "units": [
+    {
+      "anchor": "P01",
+      "words": 51
+    },
+    {
+      "anchor": "P02",
+      "words": 148
+    },
+    {
+      "anchor": "P03",
+      "words": 84
+    },
+    {
+      "anchor": "P04",
+      "words": 25
+    },
+    {
+      "anchor": "P05",
+      "words": 11
+    },
+    {
+      "anchor": "P06",
+      "words": 17
+    },
+    {
+      "anchor": "P07",
+      "words": 18
+    },
+    {
+      "anchor": "P08",
+      "words": 8
+    },
+    {
+      "anchor": "P09",
+      "words": 13
+    }
+  ]
+}

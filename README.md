@@ -26,6 +26,7 @@ All principal romantic and sexual characters are adults.
 - `story/` — campaign pressure and repeatable scene generation
 - `decisions/` — choices reserved for the human creators
 - `tasks/` — self-contained production tasks with recommended reasoning effort
+- [`post_analysis/`](post_analysis/README.md) — evidence-based post analysis, creative writer profiles, pattern tracking, and proposed revisions
 
 ## Creative north star
 
